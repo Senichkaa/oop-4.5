@@ -1,0 +1,13 @@
+﻿  Complex.cpp
+C:\Users\hp\source\repos\OOP 4.5\OOP 4.5\Complex.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 4.5\OOP 4.5\Complex.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  FuzzyNumber.cpp
+C:\Users\hp\source\repos\OOP 4.5\OOP 4.5\FuzzyNumber.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 4.5\OOP 4.5\FuzzyNumber.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Pair.cpp
+C:\Users\hp\source\repos\OOP 4.5\OOP 4.5\Pair.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Source.cpp
+C:\Users\hp\source\repos\OOP 4.5\OOP 4.5\Complex.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 4.5\OOP 4.5\Source.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Создание кода...
+  OOP 4.5.vcxproj -> C:\Users\hp\source\repos\OOP 4.5\x64\Debug\OOP 4.5.exe
